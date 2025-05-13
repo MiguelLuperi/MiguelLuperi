@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">Tenho 19 anos, sou formado em Desenvolvimento de Sistemas pela ETEC Dr. Júlio Cardoso e atualmente curso o segundo semestre de Desenvolvimento de Software Multiplataforma na FATEC de Franca. Apaixonado por tecnologia, busco constantemente aprender e me desafiar para me tornar um profissional capacitado e inovador na área. Meu objetivo é me tornar um profissional completo, capaz de contribuir com projetos que façam a diferença no mundo da tecnologia.</p>
+<p align="left">Tenho 19 anos, sou formado em Desenvolvimento de Sistemas pela ETEC Dr. Júlio Cardoso e atualmente curso o segundo semestre de Desenvolvimento de Software Multiplataforma na FATEC de Franca. Busco constantemente aprender e me desafiar para me tornar um profissional capacitado e inovador na área. Meu objetivo é me tornar um profissional completo, capaz de contribuir com projetos que façam a diferença no mundo da tecnologia.</p>
 
 ###
 
